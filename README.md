@@ -9,14 +9,18 @@
 - ⚡ Fun fact: I´m 33 years old and guess what? I´m so venture to change my all life. So came with me!
 
 <div>
+    
   <a href="https://github.com/eufaelasilva">
   <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufaelasilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    
+ ## 👩🏾‍💻 Linguagens que estou aprendendo   
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufaelasilva&layout=compact&langs_count=7&theme=radical"/>
   <div>
   <div style="display: inline_block"><br> 
     
-## 👩🏾‍💻 Skills
+## 🤳🏾 Skills
 <p align="left">
   <img align="center" alt="Rafa-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
   <img align="center" alt="Rafa-Behance" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-plain.svg">
