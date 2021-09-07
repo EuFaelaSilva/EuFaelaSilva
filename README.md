@@ -10,18 +10,19 @@ Oprah Winfrey
 - 🤔 Estou procurando ajuda para mudar minha carreira e conseguir me tornar uma full staker (quem sabe, lol)
 - ⚡ Curiosidade: tenho 33 anos e adivinha? Eu estou me arriscando a mudar toda a minha vida. Então, vem comigo neste novo desafio da mudança de carreira!
 
-<div>
-    
-## 🌱 Áreas de Estudo
-    
-- 👨🏾‍🎓 Atualmente, estou aprendendo linguagens de programação "Introdução à Ciência da Computação com Python Parte 1 e Parte 2"
-- 🙏🏾 Áreas de conhecimento pretendidas: Java, JavaScript, redefinição de API e NodeJS  
+<div>    
+  
+ ## 👩🏾‍💻 Linguagens que estou aprendendo  
     
   <a href="https://github.com/eufaelasilva">
   <div>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufaelasilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     
+      
+ ## 🌱 Áreas de Estudo
     
- ## 👩🏾‍💻 Linguagens que estou aprendendo   
+- 👨🏾‍🎓 Atualmente, estou aprendendo linguagens de programação "Introdução à Ciência da Computação com Python Parte 1 e Parte 2"
+- 🙏🏾 Áreas de conhecimento pretendidas: Java, JavaScript, redefinição de API e NodeJS  
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufaelasilva&layout=compact&langs_count=7&theme=radical"/>
   <div>
