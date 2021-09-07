@@ -2,13 +2,20 @@
 
 ### 🧙🏾‍♀️ Sobre mim
 
-- 🔭 I’m currently working on customer support in a multinational technology company
-- 🌱 I’m currently learning programming languages (Python, Java, JavaScript, API Reset & NodeJS)
-- 🤔 I’m looking for help to change my carrer and get a full staker (perhaps, lol)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I´m 33 years old and guess what? I´m so venture to change my all life. So came with me!
+"A maior aventura que você pode ter é viver a vida dos seus sonhos."
+Oprah Winfrey
+
+- 😄 Pronomes: Ela / Ela
+- 🔭 Atualmente, estou trabalhando com suporte ao cliente em uma empresa multinacional de tecnologia
+- 🤔 Estou procurando ajuda para mudar minha carreira e conseguir me tornar uma full staker (quem sabe, lol)
+- ⚡ Curiosidade: tenho 33 anos e adivinha? Eu estou me arriscando a mudar toda a minha vida. Então, vem comigo neste novo desafio da mudança de carreira!
 
 <div>
+    
+## 🌱 Áreas de Estudo
+    
+- 👨🏾‍🎓 Atualmente, estou aprendendo linguagens de programação "Introdução à Ciência da Computação com Python Parte 1 e Parte 2"
+- 🙏🏾 Áreas de conhecimento pretendidas: Java, JavaScript, redefinição de API e NodeJS  
     
   <a href="https://github.com/eufaelasilva">
   <div>   
