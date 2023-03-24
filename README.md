@@ -7,8 +7,8 @@ Oprah Winfrey
 
 - 😄 Pronomes: Ela / Ela
 - 🔭 Atualmente, estou trabalhando com suporte ao cliente em uma empresa multinacional de tecnologia
-- 🤔 Estou procurando ajuda para mudar minha carreira e fazendo diversos cursos para me tornar uma FullStack (quem sabe, lol)
-- ⚡ Curiosidade: tenho 33 anos e adivinha? Eu estou me arriscando a mudar toda a minha vida nessa nova jornada (Também não tenho nada perder, haha). Então, vem comigo neste novo desafio da mudança de carreira!
+- 🤔 Sou uma eterna aprendiz. Estou cursando 2 cursos de programação.
+- ⚡ Curiosidade: tenho 35 anos e estou navegando rumo a migração de área para tecnologia.
 
 <div>    
   
