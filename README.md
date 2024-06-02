@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Rafaela Silva 👋
 
 ### 🧙🏾‍♀️ Sobre mim
+<p align="left">
 
 "A maior aventura que você pode ter é viver a vida dos seus sonhos."
 Oprah Winfrey
