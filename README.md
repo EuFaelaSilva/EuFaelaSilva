@@ -20,6 +20,7 @@ Oprah Winfrey
 <p align="left">
 </div>
  <div style="display: inline_block"><br> 
+      
 ## 🔎 Onde me Encontrar
  
 </div>
