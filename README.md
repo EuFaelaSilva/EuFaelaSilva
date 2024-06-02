@@ -6,23 +6,12 @@
 Oprah Winfrey
 
 - 😄 Pronomes: Ela / Ela
-- 🔭 Atualmente, estou trabalhando com suporte ao cliente em uma empresa multinacional de tecnologia
 - 🤔 Sou uma eterna aprendiz. Estou cursando 2 cursos de programação.
-- ⚡ Curiosidade: tenho 35 anos e estou navegando rumo a migração de área para tecnologia.
 
 <div>    
-  
- ## 👩🏾‍💻 Linguagens que estou aprendendo
-    
-  <a href="https://github.com/eufaelasilva">
-  <div>   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufaelasilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      
       
  ## 🌱 Áreas de Estudo | Objetivos  
-    
-- 👨🏾‍🎓 Atualmente, estou aprendendo linguagens de programação "Introdução à Ciência da Computação com Python Parte 1 e Parte 2"
-- 🙏🏾 Áreas de conhecimento pretendidas: Java, JavaScript, HTML, redefinição de API e NodeJS 
 -  🤷🏾‍♀️ O que eu quero: Quero tudo o que vier   
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufaelasilva&layout=compact&langs_count=7&theme=radical"/>
@@ -31,9 +20,7 @@ Oprah Winfrey
     
 ## 🤳🏾 Skills
 <p align="left">
-  <img align="center" alt="Rafa-Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-plain.svg">
-  <img align="center" alt="Rafa-Behance" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-plain.svg">
-  <img align="center" alt="Rafa-Google" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-plain.svg">
+
 </div>
  
  <div style="display: inline_block"><br> 
